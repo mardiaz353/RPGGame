@@ -1,0 +1,215 @@
+﻿  Action.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+  Actor.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(13): error C3646: 'time': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Attack.cpp
+c:\users\angel\source\repos\rpggame\rpggame\attack.h(9): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\attack.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\attack.h(9): error C2238: unexpected token(s) preceding ';'
+  Effect.cpp
+c:\users\angel\source\repos\rpggame\rpggame\event.h(9): error C2143: syntax error: missing ';' before '*'
+c:\users\angel\source\repos\rpggame\rpggame\event.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\event.h(9): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+  Event.cpp
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(5): error C3646: 'time': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(6): error C3646: 'eventNum': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(13): error C2065: 'time': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(13): error C2039: 'time': is not a member of 'EventID'
+  c:\users\angel\source\repos\rpggame\rpggame\eventid.h(4): note: see declaration of 'EventID'
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(14): error C2065: 'time': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(14): error C2039: 'time': is not a member of 'EventID'
+  c:\users\angel\source\repos\rpggame\rpggame\eventid.h(4): note: see declaration of 'EventID'
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(16): error C2065: 'eventNum': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\eventid.h(16): error C2039: 'eventNum': is not a member of 'EventID'
+  c:\users\angel\source\repos\rpggame\rpggame\eventid.h(4): note: see declaration of 'EventID'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(13): error C3646: 'time': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(32): error C2065: 'Event': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(32): error C2923: 'std::map': 'Event' is not a valid template type argument for parameter '_Ty'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(78): error C3203: 'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\event.cpp(8): error C2039: 'time': is not a member of 'Event'
+  c:\users\angel\source\repos\rpggame\rpggame\event.h(8): note: see declaration of 'Event'
+c:\users\angel\source\repos\rpggame\rpggame\event.cpp(9): error C2065: 'eventNum': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\event.cpp(13): error C2039: 'time': is not a member of 'Event'
+  c:\users\angel\source\repos\rpggame\rpggame\event.h(8): note: see declaration of 'Event'
+c:\users\angel\source\repos\rpggame\rpggame\event.cpp(14): error C2039: 'eventNum': is not a member of 'Event'
+  c:\users\angel\source\repos\rpggame\rpggame\event.h(8): note: see declaration of 'Event'
+  EventID.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(32): error C2065: 'EventID': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(32): error C2923: 'std::map': 'EventID' is not a valid template type argument for parameter '_Kty'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(32): error C3203: 'less': unspecialized class template can't be used as a template argument for template parameter '_Pr', expected a real type
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(78): error C3203: 'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+  Grid.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+  Inventory.cpp
+c:\users\angel\source\repos\rpggame\rpggame\inventory.h(7): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\inventory.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\inventory.h(7): error C2238: unexpected token(s) preceding ';'
+  Item.cpp
+c:\users\angel\source\repos\rpggame\rpggame\item.h(7): error C3646: 'name': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\item.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Movement.cpp
+c:\users\angel\source\repos\rpggame\rpggame\movement.h(2): error C2504: 'Action': base class undefined
+c:\users\angel\source\repos\rpggame\rpggame\movement.h(4): error C2061: syntax error: identifier 'Actor'
+c:\users\angel\source\repos\rpggame\rpggame\movement.h(5): error C3646: 'performAction': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\movement.h(5): error C2059: syntax error: '('
+c:\users\angel\source\repos\rpggame\rpggame\movement.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(6): error C2600: 'Movement::Movement': cannot define a compiler-generated special member function (must be declared in the class first)
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(10): error C2065: 'Actor': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(10): error C2065: 'self': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(10): error C2761: 'bool Movement::checkAction(void)': redeclaration of member is not allowed
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(10): error C2448: 'Movement::checkAction': function-style initializer appears to be a function definition
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(15): error C2039: 'performAction': is not a member of 'Movement'
+  c:\users\angel\source\repos\rpggame\rpggame\movement.h(2): note: see declaration of 'Movement'
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(15): error C2146: syntax error: missing ';' before identifier 'performAction'
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(15): error C2143: syntax error: missing ';' before '{'
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(15): error C2447: '{': missing function header (old-style formal list?)
+c:\users\angel\source\repos\rpggame\rpggame\movement.cpp(20): error C2600: 'Movement::~Movement': cannot define a compiler-generated special member function (must be declared in the class first)
+  Position.cpp
+c:\users\angel\source\repos\rpggame\rpggame\position.h(21): error C2653: 'Grid': is not a class or namespace name
+c:\users\angel\source\repos\rpggame\rpggame\position.h(21): error C2061: syntax error: identifier 'DIRECTIONS'
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(10): error C2653: 'Grid': is not a class or namespace name
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(10): error C2065: 'DIRECTIONS': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(10): error C2146: syntax error: missing ')' before identifier 'to'
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(10): error C2143: syntax error: missing ';' before '{'
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(10): error C2447: '{': missing function header (old-style formal list?)
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(14): error C2511: 'void Position::rotate(int)': overloaded member function not found in 'Position'
+  c:\users\angel\source\repos\rpggame\rpggame\position.h(3): note: see declaration of 'Position'
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(47): error C2653: 'Grid': is not a class or namespace name
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(47): error C2065: 'height': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(51): error C2653: 'Grid': is not a class or namespace name
+c:\users\angel\source\repos\rpggame\rpggame\position.cpp(51): error C2065: 'width': undeclared identifier
+  RPGGame.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+  Tile.cpp
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C3646: 'move': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C3646: 'pos': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C3646: 'stats': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2143: syntax error: missing ';' before '<'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(10): error C2238: unexpected token(s) preceding ';'
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C3646: 'inventory': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C3646: 'type': unknown override specifier
+c:\users\angel\source\repos\rpggame\rpggame\actor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(11): error C2371: 'u32': redefinition; different basic types
+  c:\users\angel\source\repos\rpggame\rpggame\typedefs.h(3): note: see declaration of 'u32'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(26): warning C4091: 'static ': ignored on left of 'Grid::DIRECTIONS' when no variable is declared
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(30): error C2065: 'Tile': undeclared identifier
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(30): error C2923: 'std::vector': 'Tile' is not a valid template type argument for parameter '_Ty'
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(30): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\angel\source\repos\rpggame\rpggame\grid.h(30): error C3203: 'vector': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+  Generating Code...
